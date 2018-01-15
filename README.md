@@ -4,7 +4,7 @@
 
 Many DroneDeploy users have shape files that represent location boundaries such as the perimeter of their farm.
  
-Your job is to build an app on the DroneDeploy App Market to allow customers to import these .shp/.klm/.zip files as drone flight plans.
+Your job is to build an app on the DroneDeploy App Market to allow customers to import these .shp/.kml/.zip files as drone flight plans.
   
 If you desire you can use this javascript library to translate a shp file to json. 
 https://github.com/calvinmetcalf/shapefile-js
